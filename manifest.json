@@ -1,17 +1,76 @@
 {
   "loader_version": "2.0.0",
-  "loader_url": "",
+  "loader_url": "https://github.com/tilaksingha/MultiLoader-PayLoads/releases/download/loader-v2.0.0/MultiLoader.exe",
   "products": {
-    "external": {"version": "1.0.0", "tag": "", "url": "", "sha256": "", "changelog": ""},
-    "premium": {"version": "1.0.0", "tag": "", "url": "", "sha256": "", "changelog": ""},
-    "fakelag": {"version": "1.0.0", "tag": "", "url": "", "sha256": "", "changelog": ""},
-    "aim_visible": {"version": "1.0.0", "tag": "", "url": "", "sha256": "", "changelog": ""},
-    "silent_aim": {"version": "1.0.0", "tag": "", "url": "", "sha256": "", "changelog": ""},
-    "silent_aim_max": {"version": "1.0.0", "tag": "", "url": "", "sha256": "", "changelog": ""},
-    "uid_bypass": {"version": "1.0.0", "tag": "", "url": "", "sha256": "", "changelog": ""},
-    "lib_bypass": {"version": "1.0.0", "tag": "", "url": "", "sha256": "", "changelog": ""},
-    "requirements": {"version": "1.0.0", "static": true, "tag": "", "url": "", "sha256": ""},
-    "ff_apk": {"version": "1.0.0", "static": true, "tag": "", "url": "", "sha256": ""},
-    "emulator": {"version": "1.0.0", "static": true, "tag": "", "url": "", "sha256": ""}
+    "external": {
+      "version": "1.0.0",
+      "tag": "external-v1.0.0",
+      "url": "https://github.com/tilaksingha/MultiLoader-PayLoads/releases/download/external-v1.0.0/External.exe",
+      "sha256": "3b369a2a6aca0eb13a03cd9b3983b10601dc295f4c1097018c9bcc33c648fd0f",
+      "changelog": "initial"
+    },
+    "premium": {
+      "version": "1.0.0",
+      "tag": "premium-v1.0.0",
+      "url": "https://github.com/tilaksingha/MultiLoader-PayLoads/releases/download/premium-v1.0.0/Premium.exe",
+      "sha256": "3b369a2a6aca0eb13a03cd9b3983b10601dc295f4c1097018c9bcc33c648fd0f",
+      "changelog": "initial"
+    },
+    "fakelag": {
+      "version": "1.0.0",
+      "tag": "fakelag-v1.0.0",
+      "url": "https://github.com/tilaksingha/MultiLoader-PayLoads/releases/download/fakelag-v1.0.0/FakeLag.exe",
+      "sha256": "f6f6a5eb5aea316bdf791708e0a20041943d3afb70adce8fe29a7dfe31953121",
+      "changelog": "initial"
+    },
+    "aim_visible": {
+      "version": "1.0.0",
+      "tag": "aim_visible-v1.0.0",
+      "url": "https://github.com/tilaksingha/MultiLoader-PayLoads/releases/download/aim_visible-v1.0.0/AimVisible.exe",
+      "sha256": "20648b1279ff6d874da1fa5bf8cc0ea52a79e6244aa9db3a1cbbd466c3725bb2",
+      "changelog": "initial"
+    },
+    "silent_aim": {
+      "version": "1.0.0",
+      "tag": "silent_aim-v1.0.0",
+      "url": "https://github.com/tilaksingha/MultiLoader-PayLoads/releases/download/silent_aim-v1.0.0/SilentAim.exe",
+      "sha256": "91b9ae1263c94096ad22626e19bcd6dca793b65d8fffe2fd6e5e619d96dfe879",
+      "changelog": "initial"
+    },
+    "silent_aim_max": {
+      "version": "1.0.0",
+      "tag": "silent_aim_max-v1.0.0",
+      "url": "https://github.com/tilaksingha/MultiLoader-PayLoads/releases/download/silent_aim_max-v1.0.0/SilentAimMax.exe",
+      "sha256": "35802d00e2f5d186d2c80c6a89aa60bc8919688ac44772ff65d0bb31a8c73a1f",
+      "changelog": "initial"
+    },
+    "requirements": {
+      "version": "1.0.0",
+      "tag": "requirements-v1.0.0",
+      "url": "https://github.com/tilaksingha/MultiLoader-PayLoads/releases/download/requirements-v1.0.0/Requirements.rar",
+      "sha256": "a7a4381049502f474b02de2c9dd820cdeadc07b77c192ec30a0b97311f63d72e",
+      "changelog": "initial"
+    },
+    "ff_apk": {
+      "version": "1.132.1",
+      "tag": "ff_apk-v1.132.1",
+      "url": "https://github.com/tilaksingha/MultiLoader-PayLoads/releases/download/ff_apk-v1.132.1/FreeFire.V7A.V1.132.1.xapk",
+      "sha256": "0ea79888f5d66cc482acab39af4888a3d97867b72d0f291f1563e0bdc1620587",
+      "changelog": "ob55"
+    },
+    "emulator_msi": {
+      "version": "1.0.0",
+      "tag": "emulator_msi-v1.0.0",
+      "url": "https://github.com/tilaksingha/MultiLoader-PayLoads/releases/download/emulator_msi-v1.0.0/MsiInstaller.exe",
+      "sha256": "06cb3f619a7554dc955214e33358fb7ce6f4e734bf3020846ce5d4b7040fdf7e",
+      "changelog": "initial"
+    },
+    "emulator_bluestacks": {
+      "version": "1.0.0",
+      "tag": "emulator_bluestacks-v1.0.0",
+      "url": "https://github.com/tilaksingha/MultiLoader-PayLoads/releases/download/emulator_bluestacks-v1.0.0/BlueStacksInstaller.exe",
+      "sha256": "801895b346e936c1a7958135c285bab8d337e2d908e7d7b2fca4e3c39a786ed7",
+      "changelog": "initial"
+    }
   }
 }
